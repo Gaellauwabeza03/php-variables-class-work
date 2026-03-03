@@ -1,3 +1,5 @@
 <?php 
-echo "Hello world";
+$name  ="UWABEZA Gaella";
+
+echo "My full names are " .$name;
 ?>
